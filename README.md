@@ -29,7 +29,7 @@ To get started, ensure you have the necessary hardware and software. This projec
 1. **Clone the repo**:
 
     ``` bash
-    git clone https://github.com/d7rub1k/cube-solver-cfop.git
+    git clone https://github.com/hwangstice/cube-solver-cfop.git
     ```
 
 2. **Install OpenCV**:
